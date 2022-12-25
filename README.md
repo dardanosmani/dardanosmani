@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 <div align="center">
 <div align="center">
   <h1 align="center">Dardan OSMANI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">

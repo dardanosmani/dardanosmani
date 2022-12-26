@@ -13,7 +13,9 @@
   En recherche d'une entreprise qui peut m'accueillir en contrat de professionnalisation.
 
 </div>
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  

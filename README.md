@@ -9,7 +9,7 @@
 
   <img  height="200" width="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/> 
 
-  #  Concepteur développeur d'applications - DevOps - Bac +3
+  # Concepteur Développeur d'Applications en environnement DevOps
   En recherche d'une entreprise qui peut m'accueillir en contrat de professionnalisation.
 
 </div>
@@ -43,10 +43,8 @@
 </div></td><td valign="top" width="33%">
 
 ### Programme de cette année
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<div align="center">                                                                 
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="-Java" height="50" />  
+<img style="margin: 10px" src="https://www.vyrazu.com/wp-content/uploads/2021/01/iconfinder_21_Angular_logo_logos_4373284.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="50" />
 </div></td></tr></table>  
